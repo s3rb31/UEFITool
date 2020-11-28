@@ -1,6 +1,6 @@
 # UEFITool\_mod
 
-This version of UEFITool enables you to directly save all files that are found with a text search, so you don't have to dump them manually.
+This version of UEFITool enables you to directly save all files that are found with a search, so you don't have to dump them manually.
 
 ## How to use
 
